@@ -3,4 +3,4 @@ transformer_model/evaluate__pinns.py
 transformer_model/pinnsformer copy.py
 /transformer_model/PinnTransformer_main_file
 transformer_model/evaluate_pinnsformer.py
-transformer_model/plot.ipynb
+/transformer_model/plot.ipynb
