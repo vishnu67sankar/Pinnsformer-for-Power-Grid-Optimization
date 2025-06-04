@@ -1,5 +1,5 @@
 # DL Project
-This team project, conducted by Vishnu Sankar, Ilias Baali, Cole Johnson, and Priyanshu Mehta, leverages a Transformer architecture integrated with PINNs to speed up power grid simulations while adhering to physics constraints.
+This team project, conducted by Vishnu Sankar, Ilias Baali, Cole Johnson, and Priyanshu Mehta, leverages a Transformer architecture integrated with PINNs to speed up power grid simulations while adhering to physics constraints. A more lightweight project can be found in another repo that I develoed here: https://github.com/vishnu67sankar/Power-Grid-Optimization/tree/main (easy to install and use, along with datasets), which explores transfer learning for Electric Powergrid Simulations. The project below needs considerable implementation efforts due to its dependencies on other projects (check [Steps to run the transformer model](#steps-to-run-the-transformer-model))
 
 ## Table of Contents
 - [Why does this Project matter?](#why-does-this-project-matter)
